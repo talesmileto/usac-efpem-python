@@ -1,0 +1,1 @@
+Tareas y laboratorios del curso programación científica, utilizando el lenguaje python.
